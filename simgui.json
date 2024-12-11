@@ -4,6 +4,15 @@
       "/FMSInfo": "FMSInfo"
     }
   },
+  "NetworkTables": {
+    "transitory": {
+      "Shuffleboard": {
+        ".metadata": {
+          "open": true
+        }
+      }
+    }
+  },
   "NetworkTables Info": {
     "visible": true
   }

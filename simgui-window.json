@@ -10,8 +10,8 @@
       "style": "0",
       "userScale": "2",
       "width": "1600",
-      "xpos": "-1",
-      "ypos": "-1"
+      "xpos": "220",
+      "ypos": "95"
     }
   },
   "Table": {
@@ -30,17 +30,17 @@
     },
     "###Joysticks": {
       "Collapsed": "0",
-      "Pos": "280,584",
-      "Size": "976,82"
+      "Pos": "300,566",
+      "Size": "976,179"
     },
     "###NetworkTables": {
       "Collapsed": "0",
-      "Pos": "312,346",
-      "Size": "937,231"
+      "Pos": "311,319",
+      "Size": "937,248"
     },
     "###NetworkTables Info": {
       "Collapsed": "0",
-      "Pos": "312,162",
+      "Pos": "309,157",
       "Size": "937,181"
     },
     "###Other Devices": {
@@ -56,7 +56,7 @@
     "###Timing": {
       "Collapsed": "0",
       "Pos": "6,187",
-      "Size": "169,168"
+      "Size": "169,142"
     },
     "Debug##Default": {
       "Collapsed": "0",
